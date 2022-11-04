@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+li {
+    font-size: 18px;
+}
+
+.header {
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+}
